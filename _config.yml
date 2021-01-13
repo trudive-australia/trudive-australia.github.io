@@ -83,11 +83,11 @@ author:
   name             : "Trudive Australia"
   avatar           : "profile.png"
   bio              : "Wetsuits by order"
-  location         : "Austalia"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "trudive_serviceau@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : "trudive_australia"
 
 # Reading Files
 include:
