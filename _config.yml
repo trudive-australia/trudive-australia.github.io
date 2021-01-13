@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Qiu"
+title                    : "Trudive"
 title_separator          : "-"
-name                     : &name "Harry Qiu"
-description              : &description "personal description"
-url                      : https://hqiu-nju.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Trudive Australia"
+description              : &description "Wetsuits for freediving, SCUBA diving and spearfishing "
+url                      : https://trudive-australia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hqiu-nju/hqiu-nju.github.io"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hao Qiu"
+  name             : "Trudive Australia"
   avatar           : "profile.png"
-  bio              : "PhD Student, Radio Astronomy"
-  location         : "Sydney, Austalia"
+  bio              : "Wetsuits by order"
+  location         : "Austalia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=XPVwEr4AAAAJ&hl=en"
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hqiu-nju"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9586-7904"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
